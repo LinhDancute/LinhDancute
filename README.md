@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linh Dan</h1>
-<h3 align="center">Web Developer | .NET Backend</h3>
+<h3 align="center">Web Developer|.NET Backend</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
 
