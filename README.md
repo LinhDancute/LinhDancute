@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio [https://linhdancute.github.io/minimal-portfolio/](https://linhdancute.github.io/minimal-portfolio/)
 
-- 📫 Contact me: **ndldansoftware@gmail.com**
+- 📫 Contact me: **dannguyen11003@gmail.com**
 
 - 📄 My CV: [https://linhdancute.github.io/minimal-portfolio/pdf/resume.pdf](https://linhdancute.github.io/minimal-portfolio/pdf/resume.pdf)
 
