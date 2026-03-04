@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Linh Dan</h1>
-<h3 align="center">Web Developer|.NET Backend</h3>
+<h1 align="center">Software Engineer with nearly 2 years in insurance, building distributed .NET systems using DDD, CQRS, Event Sourcing, and event-driven microservices, with additional Angular and PHP/Laravel experience.</h1>
+<h3 align="center">Developer|.NET Backend</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
 
@@ -7,7 +7,7 @@
 
 - 📫 Contact me: **dannguyen11003@gmail.com**
 
-- 📄 My CV: [https://linhdancute.github.io/minimal-portfolio/pdf/resume.pdf](https://linhdancute.github.io/minimal-portfolio/pdf/resume.pdf)
+- 📄 My CV: [https://linhdancute.github.io/minimal-portfolio/pdf/resume.pdf](url)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
