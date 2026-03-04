@@ -1,4 +1,5 @@
-<h1 align="center">Software Engineer with nearly 2 years in insurance, building distributed .NET systems using DDD, CQRS, Event Sourcing, and event-driven microservices, with additional Angular and PHP/Laravel experience.</h1>
+<h1>Linh Dan Nguyen</h1>
+<h4>Software Engineer with nearly 2 years in insurance, building distributed .NET systems using DDD, CQRS, Event Sourcing, and event-driven microservices, with additional Angular and PHP/Laravel experience.</h4>
 <h3 align="center">Developer|.NET Backend</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
