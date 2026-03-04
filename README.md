@@ -1,5 +1,5 @@
 # Linh Dan Nguyen
-### .NET Backend Engineer | Distributed Systems | Insurance Domain
+### Software Engineer | Full-Stack (.NET & Angular) | Distributed Systems | Insurance Domain
 
 Software Engineer with nearly 2 years of experience in the insurance domain, building distributed .NET systems using **DDD, CQRS, Event Sourcing, and event-driven microservices**. Experienced in Angular frontend development and PHP/Laravel backend integration.
 
