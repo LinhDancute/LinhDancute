@@ -1,26 +1,110 @@
-<h1>Linh Dan Nguyen</h1>
-<h4>Software Engineer with nearly 2 years in insurance, building distributed .NET systems using DDD, CQRS, Event Sourcing, and event-driven microservices, with additional Angular and PHP/Laravel experience.</h4>
-<h3 align="center">Developer|.NET Backend</h3>
+# Linh Dan Nguyen
+### .NET Backend Engineer | Distributed Systems | Insurance Domain
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
+Software Engineer with nearly 2 years of experience in the insurance domain, building distributed .NET systems using **DDD, CQRS, Event Sourcing, and event-driven microservices**. Experienced in Angular frontend development and PHP/Laravel backend integration.
 
-- 👨‍💻 My Portfolio [https://linhdancute.github.io/minimal-portfolio/](https://linhdancute.github.io/minimal-portfolio/)
+---
 
-- 📫 Contact me: **dannguyen11003@gmail.com**
+## 📫 Contact
 
+- 📧 Email: dannguyen11003@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/linhdansoftware  
 - 📄 My CV: [https://linhdancute.github.io/minimal-portfolio/pdf/resume.pdf](url)
+- 🌐 Portfolio: https://linhdancute.github.io/minimal-portfolio/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/linhdansoftware/?trk=public-profile-join-page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/linhdansoftware/?trk=public-profile-join-page" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/linhdancute/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/linhdancute/" height="30" width="40" /></a>
-</p>
+## 🚀 Professional Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Junior Software Engineer – Contemi Vietnam  
+**Dec 2024 – Present**  
+Insurance Domain – Full-stack Engineer  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linhdancute&show_icons=true&locale=en&layout=compact" alt="linhdancute" /></p>
+**Tech Stack:** .NET 8/9, Angular 19, EventFlow, JsonApiDotNetCore, PostgreSQL, Docker  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linhdancute&show_icons=true&locale=en" alt="linhdancute" /></p>
+- Designed DDD aggregates using CQRS and Event Sourcing with EventFlow  
+- Built event-driven microservices and integration event workflows  
+- Delivered 10+ enterprise-scale features across UAT and production releases  
+- Developed JSON:API-compliant REST services  
+- Optimized PostgreSQL queries and indexing for production performance  
+- Built reactive Angular applications using Formly, RxJS, and standalone components  
+- Improved release stability with BDD (Gherkin) testing in Agile sprints  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linhdancute&" alt="linhdancute" /></p>
+---
+
+### PHP / Laravel Project (2 Months)
+
+- Delivered revenue-impacting Change Requests in production  
+- Operated Dockerized services and integrated Elasticsearch  
+- Improved heavy search query performance in live environments  
+
+---
+
+## 🏗 Architecture & Backend
+
+- .NET 8/9, ASP.NET Core  
+- DDD, CQRS, Event Sourcing  
+- Event-Driven Microservices  
+- EventFlow  
+- Clean Architecture  
+- JsonApiDotNetCore  
+
+---
+
+## 🎨 Frontend
+
+- Angular 19  
+- Angular Formly  
+- RxJS  
+- TypeScript  
+
+---
+
+## 🧠 AI & Engineering Productivity
+
+- GitHub Copilot  
+- Spec Kit / OpenSpec (custom agents)  
+- Rovo (Jira integration)  
+- MCP concepts  
+- Antigravity  
+
+---
+
+## 🧪 Testing & API
+
+- BDD (Gherkin)  
+- Unit & Integration Testing  
+- Postman  
+
+---
+
+## ⚙ DevOps & Infrastructure
+
+- Docker  
+- Kubernetes  
+- Linux / WSL  
+- Rancher Desktop  
+- .NET Aspire  
+- Git  
+
+---
+
+## 🗄 Database & Messaging
+
+- PostgreSQL  
+- Elasticsearch  
+- Kafka (academic projects)  
+- RabbitMQ (academic projects)  
+
+---
+
+## 📌 Featured Project
+
+### Airline Reservation Management System  
+Microservices-based system built with .NET 7/8 and Angular  
+
+- Secured authentication with Duende IdentityServer6 and JWT  
+- EF Core (Fluent API), LINQ, SQL Server  
+- Angular SPA + Blazor Web interface  
+- xUnit, Karma, Jasmine testing  
+- Architecture documentation (ERD, sequence diagrams, use cases)
+
+---
